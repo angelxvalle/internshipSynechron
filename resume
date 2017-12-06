@@ -6,27 +6,63 @@
 </head>
 <body>
 
-<h1 style = "color:lightblue" "font-size:500%;" "font-family: Calibri"> <center> Angel Valle </center> </h1> 
-<p1 style = "text-align:center;" "font-family: Calibri; font-size: 10 px"> <em> 5750 SW 130th Ave </em> </p1>
-<p1 style = "text-align:center;" "font-family: Calibri;">  |   <em> Southwest Ranches, Florida 33330 </em> </p1>
-<p1 style = "text-align:center;" "font-family: Calibri;">  |   <em> angelxvalle@gmail.com </em> </p1>
-<p1 style = "text-align:center;" "font-family: Calibri;">  |   <em> (754) 252-8226 </em> </p1 
+<h1 style = "color:lightblue" "font-size:500%;" "font-family: Calibri"> <center> <b> Angel Valle </b> </center> </h1> 
+<pre>                                    Determined Coder |    Web Developer   |    angelxvalle@gmail.com   |    Southwest Ranches, Florida 33330    |    (754) 252-8226 </pre>
 <hr>
-<h1 style = "color:blue" "font-family: Calibri;"> OBJECTIVE </h3> 
-<ul>
-<li style = "font-family: Calibri;"> Broward College </li>
-</ul>
-<h3 style = "font-family: Calibri;"> Awards </h3>
-<ul>
-<li style = "font-family: Calibri;"> 2017 National Hispanic Scholar </li>
-</ul>
 
-<h3 style = "font-family: Calibri;"> Additional Qualifications </h3>
+<h2 style = "color:lightblue" "font-family: Calibri;"> <b> Objective </b> </h2> 
+<p1 style = "font-family: Calibri;"> <ins>Profile</ins> <p1>
+<br>
+<p1 style = "font-family: Calibri;"> I am passionate about developing software solutions and testing code. I thrive on turning business 
+problems into insights and i strive to be part of and shape high performing teams and projects.</p1>
+<br>
+<br> 
+<p2 style = "font-family: Calibri; "> <ins>Skills</ins></p2>
+<br>
+<p2 style = "font-family: Calibri;"> Environments: Windows </p2>
+<br>
+<p2 style = "font-family: Calibri;"> Applications: MS Office, Visual Stuido, Eclipse IDE and WordPress </p2>
+<br>
+<p2 style = "font-family: Calibri;"> Tools: JAVA, JavaScript and C++ </p2>
+<hr>
+
+<h2 style = "color:lightblue" "font-family: Calibri;"> Education & Credentials </h2>
+<p1 style = "font-family: Calibri;"> <ins>Certificate in C++</ins> </p1> 
+<br>
+<p1 style = "font-family: Calibri;"> Microsoft / June 2017 - September 2017 </p1>
+<br>
+<br>
+<p2 style = "font-family: Calibri;"> <ins>Associates of Arts in Computer Science</ins> </p2>
+<br>
+<p2 style = "font-family: Calibri;"> Currently enrolled, Broward College, Davie, FL </p2>
+<hr>
+
+<h2 style = "color:lightblue" "font-family: Calibri;"> Accomplishments </h2>
 <ul>
-<li style = "font-family: Calibri;"> Profecient Knowledge in Java </li>
-<li style = "font-family: Calibri;"> Fluent in Spanish </li>
-<li style = "font-family: Calibri;"> Skilled in both written and verbal communication </li>
+<li style = "font-family: Calibri;"> Succesfully helped build and maintain family's business website </li>
+<li style = "font-family: Calibri;"> Completed many unaccredited certifications </li>
+<li style = "font-family: Calibri;"> Recipient of the Hispanic Scholarship Fund Student Award </li>
+<li style = "font-family: Calibri;"> Served as student VP of Monarch High School </li>
 </ul>
+<hr>
+
+<h2 style = "color:lightblue" "font-family: Calibri;"> Exprerience </h2>
+<p1 style = "font-family: Calibri;"> <ins> Hurley </ins> </p1>
+<br>
+<p1 style = "font-family: Calibri;"> <i> Sales Associate </i> </p1>
+<li style = "font-family: Calibri;"> Improve problem-solving skills by interacting with a culturally diversed clientele </li>
+<li style = "font-family: Calibri;"> Provide great customer service in a professional manner while promoting our products. </li>
+<li style = "font-family: Calibri;"> Complete employee scheduling using Microsoft Excel. </li>
+<br>
+<br>
+
+<p2 style = "font-family: Calibri;"> <ins> Subway </ins> </p2>
+<br>
+<p2 style = "font-family: Calibri;"> <i> Sandwich Artisan </i> </p2>
+<li style = "font-family: Calibri;"> Strategically promoted meals on the menu while providing professional customer service. </li>
+<li style = "font-family: Calibri;"> Prepared bread and desserts with attention to details. </li>
+<li style = "font-family: Calibri;"> Handled the cash register. </li>
+
 
 </body>
 
