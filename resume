@@ -2,66 +2,82 @@
 <html>
 
 <head>
-<title> Angel Valle Resume </title>
+    <title> Angel Valle's Resume </title>
+    <link rel="stylesheet" type="text/css" href="main.css">
 </head>
 <body>
+	<div id = "profile">
+		<h1> Angel Valle </h1> 
+			<div id="header">
+				<p1> Determined Coder &emsp; | &emsp; Web Developer &emsp; | &emsp; angelxvalle@gmail.com &emsp;| &emsp; Southwest Ranches, Florida 33330 &emsp; | &emsp; (754) 252-8226 </p1> 
+			</div>
+				<hr>
+	</div>
+	<div id = "objective">
+		<h2> Objective </h2> 
+			<div id="title"
+				<p1> <ins>Profile</ins> </p1>
+			</div>
+				<br>
+			<div id="content"
+				<p1> I am passionate about developing software solutions and testing code. I thrive on turning business problems into insights and i strive to be part of and shape high performing teams and projects.</p1>
+			</div>
+				<br>
+				<br> 
+			<div id = "title"
+				<p2> <ins>Skills</ins></p2>
+			</div>
+			<br>
+			<div id = "content"
+			<p2> Environments: Windows </p2>
+			<br>
+			<p2> Applications: MS Office, Visual Stuido, Eclipse IDE and WordPress </p2>
+			<br>
+			<p2> Tools: JAVA, JavaScript and C++ </p2>
+			</div>
+	</div>	
 
-<h1 style = "color:lightblue" "font-size:500%;" "font-family: Calibri"> <center> <b> Angel Valle </b> </center> </h1> 
-<pre>                                    Determined Coder |    Web Developer   |    angelxvalle@gmail.com   |    Southwest Ranches, Florida 33330    |    (754) 252-8226 </pre>
-<hr>
+	<div id = "education">
+			<h2> Education & Credentials </h2>
+			<div id="title"
+				<p1> <ins>Certificate in C++</ins> </p1> 
+			</div>
+				<br>
+			<div id="content"
+				<p1> Microsoft / June 2017 - September 2017 </p1>
+				<br>
+				<br>
+				<p2> <ins>Associates of Arts in Computer Science</ins> </p2>
+				<br>
+				<p2> Currently enrolled, Broward College, Davie, FL </p2>
+			</div>
+	</div>			
 
-<h2 style = "color:lightblue" "font-family: Calibri;"> <b> Objective </b> </h2> 
-<p1 style = "font-family: Calibri;"> <ins>Profile</ins> <p1>
-<br>
-<p1 style = "font-family: Calibri;"> I am passionate about developing software solutions and testing code. I thrive on turning business 
-problems into insights and i strive to be part of and shape high performing teams and projects.</p1>
-<br>
-<br> 
-<p2 style = "font-family: Calibri; "> <ins>Skills</ins></p2>
-<br>
-<p2 style = "font-family: Calibri;"> Environments: Windows </p2>
-<br>
-<p2 style = "font-family: Calibri;"> Applications: MS Office, Visual Stuido, Eclipse IDE and WordPress </p2>
-<br>
-<p2 style = "font-family: Calibri;"> Tools: JAVA, JavaScript and C++ </p2>
-<hr>
+			<h2> Accomplishments </h2>
+				<ul>
+				<li> Succesfully helped build and maintain family's business website </li>
+				<li> Completed many unaccredited certifications </li>
+				<li> Recipient of the Hispanic Scholarship Fund Student Award </li>
+				<li> Served as student VP of Monarch High School </li>
+				</ul>
+				<hr>
 
-<h2 style = "color:lightblue" "font-family: Calibri;"> Education & Credentials </h2>
-<p1 style = "font-family: Calibri;"> <ins>Certificate in C++</ins> </p1> 
-<br>
-<p1 style = "font-family: Calibri;"> Microsoft / June 2017 - September 2017 </p1>
-<br>
-<br>
-<p2 style = "font-family: Calibri;"> <ins>Associates of Arts in Computer Science</ins> </p2>
-<br>
-<p2 style = "font-family: Calibri;"> Currently enrolled, Broward College, Davie, FL </p2>
-<hr>
+		<h2> Exprerience </h2>
+			<p1> <ins> Hurley </ins> </p1>
+			<br>
+			<p1> <i> Sales Associate </i> </p1>
+			<li> Improve problem-solving skills by interacting with a culturally diversed clientele </li>
+			<li> Provide great customer service in a professional manner while promoting our products. </li>
+			<li> Complete employee scheduling using Microsoft Excel. </li>
+			<br>
+			<br>
 
-<h2 style = "color:lightblue" "font-family: Calibri;"> Accomplishments </h2>
-<ul>
-<li style = "font-family: Calibri;"> Succesfully helped build and maintain family's business website </li>
-<li style = "font-family: Calibri;"> Completed many unaccredited certifications </li>
-<li style = "font-family: Calibri;"> Recipient of the Hispanic Scholarship Fund Student Award </li>
-<li style = "font-family: Calibri;"> Served as student VP of Monarch High School </li>
-</ul>
-<hr>
-
-<h2 style = "color:lightblue" "font-family: Calibri;"> Exprerience </h2>
-<p1 style = "font-family: Calibri;"> <ins> Hurley </ins> </p1>
-<br>
-<p1 style = "font-family: Calibri;"> <i> Sales Associate </i> </p1>
-<li style = "font-family: Calibri;"> Improve problem-solving skills by interacting with a culturally diversed clientele </li>
-<li style = "font-family: Calibri;"> Provide great customer service in a professional manner while promoting our products. </li>
-<li style = "font-family: Calibri;"> Complete employee scheduling using Microsoft Excel. </li>
-<br>
-<br>
-
-<p2 style = "font-family: Calibri;"> <ins> Subway </ins> </p2>
-<br>
-<p2 style = "font-family: Calibri;"> <i> Sandwich Artisan </i> </p2>
-<li style = "font-family: Calibri;"> Strategically promoted meals on the menu while providing professional customer service. </li>
-<li style = "font-family: Calibri;"> Prepared bread and desserts with attention to details. </li>
-<li style = "font-family: Calibri;"> Handled the cash register. </li>
+			<p2> <ins> Subway </ins> </p2>
+			<br>
+			<p2> <i> Sandwich Artisan </i> </p2>
+			<li> Strategically promoted meals on the menu while providing professional customer service. </li>
+			<li> Prepared bread and desserts with attention to details. </li>
+			<li> Handled the cash register. </li>
 
 
 </body>
