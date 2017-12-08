@@ -2,85 +2,107 @@
 <html>
 
 <head>
+	<style>
+.flex-container {
+  display: flex;
+  background-color: white;
+}
+
+.flex-container>div {
+  background-color: white;
+  padding:20px;
+}
+</style>
     <title> Angel Valle's Resume </title>
     <link rel="stylesheet" type="text/css" href="main.css">
 </head>
 <body>
-	<div id = "profile">
-		<h1> Angel Valle </h1> 
+
+<div class="flex-container">
+
+  <div id = title style="width: 100%; text-align: center;"> Angel Valle</div>
+
+</div>
+<div id = "profile">
+		
 			<div id="header">
-				<p1> Determined Coder &emsp; | &emsp; Web Developer &emsp; | &emsp; angelxvalle@gmail.com &emsp;| &emsp; Southwest Ranches, Florida 33330 &emsp; | &emsp; (754) 252-8226 </p1> 
+				<p1> Determined Coder &emsp; | &emsp; Web Developer &emsp; | &emsp; angelxvalle@gmail.com &emsp;| &emsp; Southwest Ranches, Florida &emsp; | &emsp; (754) 252-8226 </p1> 
 			</div>
-				<hr>
 	</div>
-	<div id = "objective">
-		<h2> Objective </h2> 
-			<div id="title"
-				<p1> <ins>Profile</ins> </p1>
-			</div>
-				<br>
-			<div id="content"
-				<p1> I am passionate about developing software solutions and testing code. I thrive on turning business problems into insights and i strive to be part of and shape high performing teams and projects.</p1>
-			</div>
-				<br>
-				<br> 
-			<div id = "title"
-				<p2> <ins>Skills</ins></p2>
-			</div>
-			<br>
-			<div id = "content"
-			<p2> Environments: Windows </p2>
-			<br>
-			<p2> Applications: MS Office, Visual Stuido, Eclipse IDE and WordPress </p2>
-			<br>
-			<p2> Tools: JAVA, JavaScript and C++ </p2>
-			</div>
+	<div class="flex-container">
+		<div id="ho" style="width: 100%; text-align: center"> <h1>OBJECTIVE</h1></div>
+	</div>	
+	<div class="flex-container">
+		<div id= "p1" style="width: 25%; text-align: left;"> <h1> Profile </h1> 
+			<div id="p2"><p> I am passionate about developing software solutions and testing code. I thrive on turning business problems into insights and i strive to be part of and shape high performing teams and projects. </p></div>
+		</div>
+	</div>	
+	<div class="flex-container">
+		<div id= "p1" style="width: 100%; text-align: left;"> <h1> Skills </h1>
+			<div id="p2"><p> Environments: Windows </p>
+			<p> Applications: MS Office, Visual Stuido, Eclipse IDE and WordPress </p></div>
+
+		 </div>
 	</div>	
 
-	<div id = "education">
-			<h2> Education & Credentials </h2>
-			<div id="title"
-				<p1> <ins>Certificate in C++</ins> </p1> 
-			</div>
-				<br>
-			<div id="content"
-				<p1> Microsoft / June 2017 - September 2017 </p1>
-				<br>
-				<br>
-				<p2> <ins>Associates of Arts in Computer Science</ins> </p2>
-				<br>
-				<p2> Currently enrolled, Broward College, Davie, FL </p2>
-			</div>
-	</div>			
-
-			<h2> Accomplishments </h2>
+	<div class="flex-container">
+		<div id="ho" style="width: 100%; text-align: left"> <h1>EDUCATION & CREDENTIALS</h1></div>
+	</div>	
+	<div class="flex-container">
+		<div id= "p1" style="width: 100%; text-align: left;"> <h1> Certificate in C++ </h1> 
+			<div id="p2_1"><p> Microsoft / June 2017 - September 2017 </p></div>
+		</div>
+	</div>	
+	<div class="flex-container">
+		<div id= "p1" style="width: 100%; text-align: left;"> <h1> Associates of Arts in Computer Science </h1> 
+			<div id="p2_1"><p> Currently enrolled, Broward College, Davie, FL </p></div>
+		</div>
+	</div>	
+	<div class="flex-container">
+		<div id="ho" style="width: 100%; text-align: left"> <h1>ACCOMPLISHMENTS</h1></div>
+	</div>
+		<div class="flex-container">
+		<div id= "p1" style="width: 100%; text-align: left;">
+			<div id="p2">
 				<ul>
 				<li> Succesfully helped build and maintain family's business website </li>
 				<li> Completed many unaccredited certifications </li>
 				<li> Recipient of the Hispanic Scholarship Fund Student Award </li>
 				<li> Served as student VP of Monarch High School </li>
 				</ul>
-				<hr>
+			</div>
+		</div>
+	</div>	
 
-		<h2> Exprerience </h2>
-			<p1> <ins> Hurley </ins> </p1>
-			<br>
-			<p1> <i> Sales Associate </i> </p1>
-			<li> Improve problem-solving skills by interacting with a culturally diversed clientele </li>
-			<li> Provide great customer service in a professional manner while promoting our products. </li>
-			<li> Complete employee scheduling using Microsoft Excel. </li>
-			<br>
-			<br>
+	<div class="flex-container">
+		<div id="ho" style="width: 100%; text-align: left"> <h1>EXPERIENCE</h1></div>
+	</div>
+	<div class="flex-container">
+		<div id= "p1" style="width: 100%; text-align: left;"> <h1> Hurley<div id="p2">&emsp;&emsp;Sunrise, Florida&emsp;August 2016 - Current</div> </h1> 
+		<div> <i>Hurley Associate</i></div>
+		<div id="p2">
+				<ul>
+				<li> Improve problem-solving skills while working with a culturally diverse clientele.  </li>
+				<li> Provide great customer service in a professional manner while promoting our products.  </li>
+				<li> Complete employee scheduling using Microsoft Excel. </li>
+				</ul>
+			</div>
+		</div>
+	</div>	
 
-			<p2> <ins> Subway </ins> </p2>
-			<br>
-			<p2> <i> Sandwich Artisan </i> </p2>
-			<li> Strategically promoted meals on the menu while providing professional customer service. </li>
-			<li> Prepared bread and desserts with attention to details. </li>
-			<li> Handled the cash register. </li>
+	<div class="flex-container">
+		<div id= "p1" style="width: 100%; text-align: left;"> <h1> Subway <div id="p2_2">&emsp;&emsp;Coconut Creek, Florida&emsp;February 2015 - March 2016</div> </h1> 
+		<div id="p2">
+				<ul>
+				<li> Improve problem-solving skills while working with a culturally diverse clientele.  </li>
+				<li> Provide great customer service in a professional manner while promoting our products.  </li>
+				<li> Complete employee scheduling using Microsoft Excel. </li>
+				</ul>
+			</div>
+		</div>
+	</div>	
 
 
-</body>
 
 
-</html>
+
