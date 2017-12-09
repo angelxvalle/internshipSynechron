@@ -29,11 +29,12 @@
 				<p1> Determined Coder &emsp; | &emsp; Web Developer &emsp; | &emsp; angelxvalle@gmail.com &emsp;| &emsp; Southwest Ranches, Florida &emsp; | &emsp; (754) 252-8226 </p1> 
 			</div>
 	</div>
+	<hr>
 	<div class="flex-container">
-		<div id="ho" style="width: 100%; text-align: center"> <h1>OBJECTIVE</h1></div>
+		<div id="ho" style="width: 100%; text-align: center;"> <h1>OBJECTIVE</h1></div>
 	</div>	
 	<div class="flex-container">
-		<div id= "p1" style="width: 25%; text-align: left;"> <h1> Profile </h1> 
+		<div id= "p1" style="width: 100%; text-align: left;"> <h1> Profile </h1> 
 			<div id="p2"><p> I am passionate about developing software solutions and testing code. I thrive on turning business problems into insights and i strive to be part of and shape high performing teams and projects. </p></div>
 		</div>
 	</div>	
@@ -44,9 +45,9 @@
 
 		 </div>
 	</div>	
-
+	<hr>
 	<div class="flex-container">
-		<div id="ho" style="width: 100%; text-align: left"> <h1>EDUCATION & CREDENTIALS</h1></div>
+		<div id="ho" style="width: 100%; text-align: center;"> <h1>EDUCATION & CREDENTIALS</h1></div>
 	</div>	
 	<div class="flex-container">
 		<div id= "p1" style="width: 100%; text-align: left;"> <h1> Certificate in C++ </h1> 
@@ -58,8 +59,9 @@
 			<div id="p2_1"><p> Currently enrolled, Broward College, Davie, FL </p></div>
 		</div>
 	</div>	
+	<hr>
 	<div class="flex-container">
-		<div id="ho" style="width: 100%; text-align: left"> <h1>ACCOMPLISHMENTS</h1></div>
+		<div id="ho" style="width: 100%; text-align: center;"> <h1>ACCOMPLISHMENTS</h1></div>
 	</div>
 		<div class="flex-container">
 		<div id= "p1" style="width: 100%; text-align: left;">
@@ -73,13 +75,13 @@
 			</div>
 		</div>
 	</div>	
-
+<hr>
 	<div class="flex-container">
-		<div id="ho" style="width: 100%; text-align: left"> <h1>EXPERIENCE</h1></div>
+		<div id="ho" style="width: 100%; text-align: center;"> <h1>EXPERIENCE</h1></div>
 	</div>
 	<div class="flex-container">
-		<div id= "p1" style="width: 100%; text-align: left;"> <h1> Hurley<div id="p2">&emsp;&emsp;Sunrise, Florida&emsp;August 2016 - Current</div> </h1> 
-		<div> <i>Hurley Associate</i></div>
+		<div id= "p1" style="width: 100%; text-align: left;"> <h1> Hurley<div id="p2">Sunrise, Florida &emsp; August 2016 - Current</div> </h1> 
+		<div id="p2"> <i>Hurley Associate</i></div>
 		<div id="p2">
 				<ul>
 				<li> Improve problem-solving skills while working with a culturally diverse clientele.  </li>
@@ -91,15 +93,18 @@
 	</div>	
 
 	<div class="flex-container">
-		<div id= "p1" style="width: 100%; text-align: left;"> <h1> Subway <div id="p2_2">&emsp;&emsp;Coconut Creek, Florida&emsp;February 2015 - March 2016</div> </h1> 
+		<div id= "p1" style="width: 100%; text-align: left;"> <h1> Subway <div id="p2">Coconut Creek, Florida &emsp; February 2015 - March 2016 </div> </h1>
 		<div id="p2">
+			<div id="p2"> <i>Sandwich Artisan</i></div>
+			<div id="p2">
 				<ul>
-				<li> Improve problem-solving skills while working with a culturally diverse clientele.  </li>
-				<li> Provide great customer service in a professional manner while promoting our products.  </li>
-				<li> Complete employee scheduling using Microsoft Excel. </li>
+				<li> Strategically promoted meals on the menu while providing professional customer service.  </li>
+				<li> Prepared bread and deseerts with attention to details.  </li>
+				<li> Handled cash register. </li>
 				</ul>
 			</div>
-		</div>
+			</div>
+		</div>	
 	</div>	
 
 
